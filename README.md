@@ -49,13 +49,7 @@ Según el Observatorio Nacional de Seguridad Ciudadana, las denuncias por robos,
 
 Python (pandas) · Streamlit · Plotly · SQLite · Open-Meteo API
 
-## Ejecución local
-
-```bash
-pip install -r requirements.txt
-streamlit run src/app.py
-```
 
 ## Autores
 
-Palma Dolmos, Clara Jimena · Pereyra Jara, Mateo Gabriel · Salva Vasquez, Rosalinda · Torres Llerena, Marcelo Antonio · Medina de la Cruz, Alejandra Valeria
+Mateo Pereyra · Rosalinda Salva · Marcelo Torres · Alejandra Medina 
